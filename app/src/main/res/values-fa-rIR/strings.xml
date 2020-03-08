@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">یادداشت</string>
+    <string name="apptitle">یادداشت های من</string>
+    <string name="note_description_hint">محتوای یادداشت را اینجا بنویسید</string>
+    <string name="note_title">عنوان یادداشت</string>
+    <string name="save_note">ثبت یادداشت</string>
+    <string name="new_note">ایجاد یادداشت جدید</string>
+    <string name="description">محتوای یادداشت</string>
+    <string name="title">عنوان</string>
+    <string name="delete_all_notes">حذف همه یادداشت ها</string>
+    <string name="noteicon">noteicon</string>
+    <string name="edit_note">ویرایش یادداشت</string>
+    <string name="empty_new_note">لطفا عنوان و متن یادداشت را وارد کنید و مجددا تلاس فرمایید</string>
+</resources>
